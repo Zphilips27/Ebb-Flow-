@@ -1,6 +1,11 @@
 # *Dao of Web Design
 
-![Alt Text](https://https://github.com/Zphilips27/Ebb-Flow-
+![Header Image](https://github.com/Zphilips27/Ebb-Flow-/blob/master/Ebb%20-%20Flow%20.png?raw=true)
+
+The liknk below is the full article to John Allsopp of a Dao of Web Design read read on for more inside of how one idea can change the prespective of a design.  
+
+[Alt Text](https://alistapart.com/article/dao)
+
 
  A Dao of Web Design is understanding web in a diffrent and broad perspective. Web Design enlighten
  your capacity to think outside of the box of the basic spectrum of a design, but to also think creatively. Understanding web design is incorporating new medium of developments such as printing, skills, design language and other factors that leads to a an accomplish well design.
@@ -13,6 +18,6 @@ The reality is,  a web page should  tides in the readability to not struggle to 
 
 Not only will it makes the brand looks good, but those who wants to invest in the products.The summary touches a lot of different key points  that is important to know in web designing environment. Dont limits your ability to just one thing but to branch out your surrounding. Including business and marketing. It specifically emphasis on the fact that designers and developers should embrace the flexibility to execute a well structure and proficience design to audiences.  
 
-
+![Alt Text](https://github.com/Zphilips27/Ebb-Flow-/blob/master/IMG_0497.JPG?raw=true)
 
 > Zaruga Philips is a Huge fan of the series Naruto. She is currently studying at Montserrat College of art. Have experince working with other media including Adobe softwar, Painting, life drawing. Take intrest of Graphic Design hope someday to be a well ellcent designer. Belive it !! 
